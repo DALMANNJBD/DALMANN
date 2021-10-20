@@ -1,6 +1,6 @@
 - 👋 Olá, sou Jairo tudo bem?
 - 👀 I’m interested in  projetos interessantes e desafios!
-- 🌱 I’m currently learning  Python.
+- 🌱 I’m currently learning  Angular, Node.js
 - 💞️ I’m looking to collaborate on projets  complex, estruturantes e empresas com pegada digital.
 - 📫 Meu contato é  dalmannjb@gmail.com
 <!---
